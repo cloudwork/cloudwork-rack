@@ -13,7 +13,7 @@ Technology
 ----------
 - database, search = Solr server or embedded?
 - sessionless, http basic auth over SSL
-- ruby + rack + sinatra
+- jruby + rack + sinatra
 
 Links
 -----
